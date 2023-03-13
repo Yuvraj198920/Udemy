@@ -5,7 +5,13 @@ import Product from "./Product";
 function Home() {
     return (
         <div className="home">
-            <div className="home__container">
+            {/* <li class="flex-item">1</li>
+            <li class="flex-item">2</li>
+            <li class="flex-item">3</li>
+            <li class="flex-item">4</li>
+            <li class="flex-item">5</li>
+            <li class="flex-item">6</li> */}
+ 
 
                 <img src="https://www.x-cart.com/wp-content/uploads/2019/01/ecommerce-768x278.jpg" alt="" className="home__image" />
 
@@ -38,7 +44,7 @@ function Home() {
                         id="23445930"
                         title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
                         price={98.99}
-                        rating={5}
+                        rating={1}
                         image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
                     />
                     <Product
@@ -59,8 +65,8 @@ function Home() {
                         image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
                     />
                 </div>
-            </div>   
-        </div> 
+
+        </div>
     )
 }
 
