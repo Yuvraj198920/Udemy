@@ -7,4 +7,4 @@ Bag Image Link -https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL
 
 Note: In react-router-dom v6, "Switch" is replaced by routes "Routes".
 
-install react-currency-format-Not available for react 18
+install react-currency-format-Not available for react 18 - instead use accounting-js
