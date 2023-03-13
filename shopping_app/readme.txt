@@ -6,3 +6,5 @@ Bag Image Link -https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL
 2.Create routes in app.js file
 
 Note: In react-router-dom v6, "Switch" is replaced by routes "Routes".
+
+install react-currency-format-Not available for react 18
