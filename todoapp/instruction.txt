@@ -1,0 +1,10 @@
+**Second commit**
+    1. Install @material-ui/core and @material-ui/icons
+        - npm install @mui/material @emotion/react @emotion/styled
+        - npm install @mui/icons-material
+    2. Create components folder and add Header.jsx file to it 
+    3. Import highlight icon into the Header.jsx
+    4. Import Header component inside App.jsx
+    5. Create style.css inside public folder
+    6. Import it inside index.html file inside head tag as stylesheet
+    7. Write css for the header.jsx
